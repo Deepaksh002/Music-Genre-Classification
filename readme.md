@@ -1,5 +1,5 @@
 # 🎵 Music Genre Classification
-[![Live App on Hugging Face](https://img.shields.io/badge/🤗_Live_App-Hugging_Face-blue?style=for-the-badge)](https://huggingface.co/spaces/SomeshPadiyar/Music_Genre_Classification)
+[![Live App on Hugging Face](https://img.shields.io/badge/🤗_Live_App-Hugging_Face-blue?style=for-the-badge)]([https://huggingface.co/spaces/Deepak-002/Music-Genre-Classification])
 ## 📌 Project Overview
 The objective of this project is to design a machine learning system that automatically classifies an input audio track into its correct music genre. Given a short music clip, the model extracts meaningful audio features and predicts the most probable genre (e.g., classical, jazz, pop, rock, metal, etc.) with high accuracy.
 
